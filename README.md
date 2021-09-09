@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour, je suis <span style="color:purple">Guillaume Bogard</span> 🌌
+
+![Guillaume Bogard's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
 
 <!--
 **guillaumebgd/guillaumebgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
