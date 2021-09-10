@@ -1,10 +1,12 @@
-### Bonjour, je suis <span style="color:purple">Guillaume Bogard</span> 🌌
+## Bonjour, je suis Guillaume Bogard 🌌
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd)
+[![Followers](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)](https://github.com/guillaumebgd)
 
 ![Guillaume Bogard's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&theme=tokyonight)
+
 
 <!--
 **guillaumebgd/guillaumebgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
