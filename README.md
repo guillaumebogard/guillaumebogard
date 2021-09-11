@@ -6,6 +6,11 @@
 ![Guillaume Bogard's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
 
+## 😄 Who am I ?
+
+I already wrote my name but I didn't introduced myself yet...
+I am currently a 3rd year student at EPITECH Bordeaux, in France. My school brought me alot to my programming skills, and as an involved person in technologies.
+
 
 ## 💬 Contact me
 
