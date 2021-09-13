@@ -8,7 +8,7 @@
 
 ## 😄 Who am I ?
 
-I already wrote my name but I didn't introduced myself yet...
+I already wrote my name but I didn't get a chance to introduce myself yet...
 
 I am currently a 3rd year student at EPITECH Bordeaux, in France. My school brought me alot to my programming skills, and as an involved person in technologies.
 I'm curious about every programming paradigm however, I really enjoy a great project architecture over anything!
