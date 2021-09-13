@@ -9,27 +9,16 @@
 ## 😄 Who am I ?
 
 I already wrote my name but I didn't introduced myself yet...
-I am currently a 3rd year student at EPITECH Bordeaux, in France. My school brought me alot to my programming skills, and as an involved person in technologies.
 
+I am currently a 3rd year student at EPITECH Bordeaux, in France. My school brought me alot to my programming skills, and as an involved person in technologies.
+I'm curious about every programming paradigm however, I really enjoy a great project architecture over anything!
+
+I'm a teacher assistant at EPITECH Bordeaux for 1st and 2nd year students. I follow their progress during their projects and introduce them to new units and notions 📚😊.
+
+Projects that I really enjoyed and that are worth sharing in terms of architecture, usefulness, or interest will be added to my repositories on this profile! 🔥
 
 ## 💬 Contact me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaume-bogard-coquard-94abb41a4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-
-<!--
-**guillaumebgd/guillaumebgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
