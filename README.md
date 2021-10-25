@@ -21,4 +21,5 @@ Projects that I really enjoyed and that are worth sharing in terms of architectu
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaume-bogard-coquard-94abb41a4/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.malt.fr/profile/guillaumebogard2" target="_blank" rel="noopener noreferrer"> <img src="https://lh3.googleusercontent.com/q5SsBlDIb3lq4x9lJ3tHbLrq4Xs5yMZ3F8EnBkIb4-EGEtljPNLaxDUq6nYBrtjeb3aRPXU4iIMrhm0tbVA" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
