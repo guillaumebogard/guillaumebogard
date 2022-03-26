@@ -14,7 +14,7 @@ I am currently a 3rd year student at EPITECH Bordeaux, in France.
 </p>
 
 <p>
-I have diversified my interests intensively and quickly within my first years of study and thus accumulated a lot of knowledge on diverse languages and technologies.
+I have diversified my interests intensively and quickly within my first years of study and thus accumulated knowledge in programming languages and technologies.
 </p>
 
 <p>
@@ -22,7 +22,7 @@ I'm also a teacher assistant at EPITECH Bordeaux for 1st and 2nd year students. 
 </p>
 
 <p>
-I hope you can find interest in the projects that I really enjoyed coding as I see sharing as the key to success! 🔥
+I hope you can find interest in projects that I enjoy(ed) coding as I see sharing as the key to success! 🔥
 </p>
 
 <h1 align="center">🖊️ Languages & Tools 🔨</h1>
