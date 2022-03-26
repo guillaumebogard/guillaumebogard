@@ -1,4 +1,4 @@
-# Hello folks! ![Wave](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/wave.gif)
+# Hello folks! ![Wave](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/gifs/wave.gif)
 ## I'm Guillaume Bogard
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd)
@@ -14,6 +14,28 @@ I'm curious about every programming paradigm however, I really enjoy a great pro
 I'm a teacher assistant at EPITECH Bordeaux for 1st and 2nd year students. I follow their progress during their projects and introduce them to new units and notions 📚😊.
 
 Projects that I really enjoyed and that are worth sharing in terms of architecture, usefulness, or interest will be added to my repositories on this profile! 🔥
+
+![C](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/cplusplus/cplusplus-original.svg)
+![C#](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/csharp/csharp-original.svg)
+![Dart](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/dart/dart-original.svg)
+![Python](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/python/python-original.svg)
+![Haskell](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/haskell/haskell-original.svg)
+![Rust](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/rust/rust-original.svg)
+![JavaScript](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/javascript/javascript-original.svg)
+![TypeScript](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/typescript/typescript-original.svg)
+![Java](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/java/java-original.svg)
+![Solidity](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/solidity/solidity-original.svg)
+![React](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/react/react-original.svg)
+![Next.js](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nextjs/nextjs-original.svg)
+![Nest.js](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nestjs/nestjs-original.svg)
+![Docker](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/docker/docker-original.svg)
+![Jenkins](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/jenkins/nestjs-original.svg)
+![Kubernetes](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/kubernetes/kubernetes-original.svg)
+![Vue.js](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/vuejs/vuejs-original.svg)
+![Unity](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/unity/unity-original.svg)
+![LaTeX](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/latex/latex-original.svg)
+![Linux](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/linux/linux-original.svg)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
 
