@@ -1,10 +1,8 @@
-## Hi, my name is Guillaume Bogard 🌌
+# Hello folks! ![Wave](https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/wave.gif)
+## I'm Guillaume Bogard
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd)
-[![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)](https://github.com/guillaumebgd)
-
-![Guillaume Bogard's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
+![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
 
 ## 😄 Who am I ?
 
@@ -16,6 +14,10 @@ I'm curious about every programming paradigm however, I really enjoy a great pro
 I'm a teacher assistant at EPITECH Bordeaux for 1st and 2nd year students. I follow their progress during their projects and introduce them to new units and notions 📚😊.
 
 Projects that I really enjoyed and that are worth sharing in terms of architecture, usefulness, or interest will be added to my repositories on this profile! 🔥
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
+
+![Guillaume Bogard's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&theme=dracula&title_color=aa80ff&text_color=ccb3ff)
 
 ## 💬 Contact me
 
