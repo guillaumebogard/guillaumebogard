@@ -18,8 +18,75 @@ Projects that I really enjoyed and that are worth sharing in terms of architectu
 <h1 align="center">🖊️ Languages & Tools 🔨</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/c/c-original.svg" alt="C" width="64" height="64"/>
-  <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/cplusplus/cplusplus-original.svg" alt="C++" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/csharp/csharp-original.svg" alt="C#" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/dart/dart-original.svg" alt="Dart" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/python/python-original.svg" alt="Python" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/haskell/haskell-original.svg" alt="Haskell" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/rust/rust-plain.svg" alt="Rust" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/typescript/typescript-original.svg" alt="TypeScript" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/java/java-original.svg" alt="Java" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/solidity/solidity-original.svg" alt="Solidity" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/react/react-original.svg" alt="React" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nextjs/nextjs-original.svg" alt="Next.js" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nestjs/nestjs-plain.svg" alt="Nest.js" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/docker/docker-original.svg" alt="Docker" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/latex/latex-original.svg" alt="LaTeX" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/unity/unity-original.svg" width="64" height="64"/> <img src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/linux/linux-original.svg" alt="Linux" width="64" height="64"/>
+  <img alt="C"          width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/c/c-original.svg"
+  >
+  <img alt="C++"        width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/cplusplus/cplusplus-original.svg"
+  >
+  <img alt="C#"         width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/csharp/csharp-original.svg"
+  >
+  <img alt="Python"     width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/python/python-original.svg"
+  >
+  <img alt="Haskell"    width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/haskell/haskell-original.svg"
+  >
+  <img alt="Rust"       width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/rust/rust-plain.svg"
+  >
+  <img alt="Java"       width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/java/java-original.svg"
+  >
+  <img alt="Solidity"   width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/solidity/solidity-original.svg"
+  >
+</p>
+
+<p align="center">
+  <img alt="Docker"     width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/docker/docker-original.svg"
+  >
+  <img alt="Kubernetes" width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/kubernetes/kubernetes-plain.svg"
+  >
+  <img alt="Jenkins"    width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/jenkins/jenkins-original.svg"
+  >
+</p>
+
+<p align="center">
+  <img alt="TypeScript" width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/typescript/typescript-original.svg"
+  >
+  <img alt="React"      width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/react/react-original.svg"
+  >
+  <img alt="Next.js"    width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nextjs/nextjs-original.svg"
+  >
+  <img alt="Vue.js"     width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/vuejs/vuejs-original.svg"
+  >
+  <img alt="Dart"       width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/dart/dart-original.svg"
+  >
+  <img alt="Nest.js"    width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nestjs/nestjs-plain.svg"
+  >
+</p>
+
+<p align="center">
+  <img alt="Unity"      width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/unity/unity-original.svg"
+  >
+  <img alt="LaTeX"      width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/latex/latex-original.svg"
+  >
+  <img alt="Linux"      width="64" height="64"
+  src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/linux/linux-original.svg"
+  >
 </p>
 
 <p align="center">
