@@ -81,24 +81,6 @@ I hope you can find interest in projects that I enjoy(ed) coding as I see sharin
 </p>
 
 <p align="center">
-  <a href="https://www.docker.com/">
-    <img alt="Docker"     width="56" height="56"
-    src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/docker/docker-original.svg"
-    >
-  </a>
-  <a href="https://kubernetes.io/">
-    <img alt="Kubernetes" width="56" height="56"
-    src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/kubernetes/kubernetes-plain.svg"
-    >
-  </a>
-  <a href="https://www.jenkins.io/">
-    <img alt="Jenkins"    width="56" height="56"
-    src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/jenkins/jenkins-original.svg"
-    >
-  </a>
-</p>
-
-<p align="center">
   <a href="https://reactjs.org/">
     <img alt="React"      width="56" height="56"
     src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/react/react-original.svg"
@@ -122,6 +104,24 @@ I hope you can find interest in projects that I enjoy(ed) coding as I see sharin
   <a href="https://nestjs.com/">
     <img alt="NestJS"    width="56" height="56"
     src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/nestjs/nestjs-plain.svg"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img alt="Docker"     width="56" height="56"
+    src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/docker/docker-original.svg"
+    >
+  </a>
+  <a href="https://kubernetes.io/">
+    <img alt="Kubernetes" width="56" height="56"
+    src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/kubernetes/kubernetes-plain.svg"
+    >
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img alt="Jenkins"    width="56" height="56"
+    src="https://raw.githubusercontent.com/guillaumebgd/guillaumebgd/main/assets/icons/jenkins/jenkins-original.svg"
     >
   </a>
 </p>
