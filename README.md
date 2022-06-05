@@ -6,26 +6,18 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
 
-<h1 align="center">😊 Who am I ? 😄</h1>
+<h1 align="center">Who am I ? 😄</h1>
 
-<p>
 My name is Guillaume ! 😃<br>
-I am currently a 3rd year student at EPITECH Bordeaux, in France.
-</p>
+I am currently a student at EPITECH Bordeaux, France within my 2nd semester of my 3rd year.
 
-<p>
 I have diversified my interests intensively and quickly within my first years of study and thus accumulated knowledge in programming languages and technologies.
-</p>
 
-<p>
-I'm also a teacher assistant at EPITECH Bordeaux for 1st and 2nd year students. I follow their progress during their projects and introduce them to new units and notions 📚😊.
-</p>
+I also was teacher assistant at EPITECH Bordeaux for 1st and 2nd year students. I used to follow their progress during their projects and introduce them to new units and notions 📚😊.
 
-<p>
-I hope you can find interest in projects that I enjoy(ed) coding as I see sharing as the key to success! 🔥
-</p>
+I hope you can find interest in projects that I enjoy(ed) developing as I see sharing as the key to success! 🔥
 
-<h1 align="center">🖊️ Languages & Tools 🔨</h1>
+<h1 align="center">Languages & Tools 🔨</h1>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -148,7 +140,7 @@ I hope you can find interest in projects that I enjoy(ed) coding as I see sharin
 <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=dracula&title_color=aa80ff&text_color=ccb3ff">
 </p>
 
-<h1 align="center">⚙️ Contact me 💬</h1>
+<h1 align="center">Contact me 💬</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaumebogardcoquard">
