@@ -138,7 +138,7 @@
   </a>
 </p>
 
-<h3 align="left">📫 Reach me</h3>
+<h4 align="left">📫 Reach me</h4>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guillaumebogardcoquard">
