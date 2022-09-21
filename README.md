@@ -5,7 +5,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
 
-<h4 align="left">🔨 Languages & Tools</h4>
+<h3 align="left">🔨 Languages & Tools</h3>
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
@@ -139,7 +139,7 @@
   </a>
 </p>
 
-<h4 align="left">📚 Currently learning<h4>
+<h3 align="left">📚 Currently learning<h3>
 
 <p align="left">
   <a href="https://go.dev" target="_blank" rel="noreferrer">
@@ -154,7 +154,7 @@
   </a>
 </p>
 
-<h4 align="left">📫 Reach me</h4>
+<h3 align="left">📫 Reach me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guillaumebogardcoquard" target="_blank" rel="noreferrer">
