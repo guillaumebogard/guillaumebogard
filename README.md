@@ -4,19 +4,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
 
-<!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
-
-
-<!--END_SECTION:activity-->
-
 <h4 align="left">📚 Currently learning<h4>
 
 <p align="left">
