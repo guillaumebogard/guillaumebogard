@@ -1,6 +1,7 @@
-<h2 align="center">Hello folks !
+<h1 align="center">Hello folks !
   <img alt="Waving" width="40" height="40" src="./assets/gifs/wave.gif">
-</h2>
+  I'm Guillaume
+</h1>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
 
