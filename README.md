@@ -108,6 +108,16 @@
     src="./assets/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
     >
   </a>
+  <a href="https://www.nginx.com">
+    <img alt="nginx" width="40" height="40"
+    src="./assets/devicon/icons/nginx/nginx-original.svg"
+    >
+  </a>
+  <a href="https://www.mysql.com">
+    <img alt="MySQL" width="40" height="40"
+    src="./assets/devicon/icons/mysql/mysql-original.svg"
+    >
+  </a>
 </p>
 
 <h4 align="left">📚 Currently learning<h4>
