@@ -42,6 +42,11 @@
       src="./assets/devicon/icons/typescript/typescript-original.svg"
     >
   </a>
+  <a href="https://dart.dev/">
+    <img alt="Dart" width="40" height="40"
+      src="./assets/devicon/icons/dart/dart-original.svg"
+    >
+  </a>
   <a href="https://www.haskell.org/">
     <img alt="Haskell" width="40" height="40"
       src="./assets/devicon/icons/haskell/haskell-original.svg"
@@ -50,11 +55,6 @@
   <a href="https://www.rust-lang.org/">
     <img alt="Rust" width="40" height="40"
       src="./assets/icons/rust-logo.png"
-    >
-  </a>
-  <a href="https://dart.dev/">
-    <img alt="Dart" width="40" height="40"
-      src="./assets/devicon/icons/dart/dart-original.svg"
     >
   </a>
   <a href="https://docs.soliditylang.org/en/v0.8.13/">
