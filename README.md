@@ -5,8 +5,6 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
 
-<p align="left">
-
 - 💼 4th year IT student at **EPITECH, Bordeaux, France** (2019-2024)
 
 - 🎓 1 year exchange at **San Francisco State University**, CS Graduate (2022-2023)
@@ -16,8 +14,6 @@
 - 👨‍🎓 Autonomous & Self-taught
 
 - 🧗‍♂️ Climbing Evangelist
-
-</p>
 
 <h3 align="left">🔨 Languages & Tools</h3>
 
