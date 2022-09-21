@@ -1,0 +1,20 @@
+name: 'Update README'
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  recent-activity:
+    name: 'Update README with recent activity'
+    runs-on: unbuntu-latest
+    steps:
+      - name: 'Checkout Repository'
+        uses: actions/Checkout@v3
+      - name: 'Update README.md'
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
