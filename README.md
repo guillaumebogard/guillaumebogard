@@ -1,23 +1,8 @@
-<h3 align="center">Hello folks !
+<h2 align="center">Hello folks !
   <img alt="Waving" width="40" height="40" src="./assets/gifs/wave.gif">
-</h3>
+</h2>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
-
-<h4 align="left">📚 Currently learning<h4>
-
-<p align="left">
-  <a href="https://go.dev">
-    <img alt="Go" width="40" height="40"
-      src="./assets/devicon/icons/go/go-original-wordmark.svg"
-    >
-  </a>
-  <a href="https://go.dev">
-    <img alt="Elixir" width="40" height="40"
-      src="./assets/devicon/icons/elixir/elixir-original.svg"
-    >
-  </a>
-</p>
 
 <h4 align="left">🔨 Languages & Tools</h4>
 
@@ -121,6 +106,21 @@
   <a href="https://aws.amazon.com">
     <img alt="AWS" width="40" height="40"
     src="./assets/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+    >
+  </a>
+</p>
+
+<h4 align="left">📚 Currently learning<h4>
+
+<p align="left">
+  <a href="https://go.dev">
+    <img alt="Go" width="40" height="40"
+      src="./assets/devicon/icons/go/go-original-wordmark.svg"
+    >
+  </a>
+  <a href="https://go.dev">
+    <img alt="Elixir" width="40" height="40"
+      src="./assets/devicon/icons/elixir/elixir-original.svg"
     >
   </a>
 </p>
