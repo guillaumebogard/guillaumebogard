@@ -3,8 +3,6 @@
   I'm Guillaume
 </h1>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=guillaumebgd.guillaumebgd) ![Follow](https://img.shields.io/github/followers/guillaumebgd?label=Follow&style=social)
-
 - 💼 4th year IT student at **EPITECH, Bordeaux, France** (2019-2024)
 
 - 🎓 1 year exchange at **San Francisco State University**, CS Graduate (2022-2023)
@@ -178,3 +176,9 @@
     >
   </a>
 </p>
+
+  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" />
+
+  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumebgd&currStreakNum=C3D1D9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="guillaumebgd" />
