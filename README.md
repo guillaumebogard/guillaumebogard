@@ -120,6 +120,24 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://unity.com">
+    <img alt="Unity" width="40" height="40"
+    src="./assets/devicon/icons/unity/unity-original.svg"
+    >
+  </a>
+  <a href="https://www.unrealengine.com/">
+    <img alt="Unreal Engine" width="40" height="40"
+    src="./assets/devicon/icons/unrealengine/unrealengine-original.svg"
+    >
+  </a>
+  <a href="https://www.blender.org">
+    <img alt="Blender" width="40" height="40"
+    src="./assets/devicon/icons/blender/blender-original.svg"
+    >
+  </a>
+</p>
+
 <h4 align="left">📚 Currently learning<h4>
 
 <p align="left">
