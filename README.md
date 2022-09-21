@@ -146,7 +146,7 @@
       src="./assets/devicon/icons/go/go-original-wordmark.svg"
     >
   </a>
-  <a href="https://go.dev">
+  <a href="https://elixir-lang.org">
     <img alt="Elixir" width="40" height="40"
       src="./assets/devicon/icons/elixir/elixir-original.svg"
     >
