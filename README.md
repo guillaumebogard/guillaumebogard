@@ -184,5 +184,5 @@
 
 <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
 
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=guillaumebgd&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=DD9012&sideNums=A63FDD&background=FFFFFF)](https://git.io/streak-stats" />
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=guillaumebgd&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=DD9012&sideNums=A63FDD&background=00000000" />
 </p>
