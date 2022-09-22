@@ -177,8 +177,11 @@
   </a>
 </p>
 
-  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" />
+  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
 
-  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" />
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumebgd&currStreakNum=C3D1D9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="guillaumebgd" />
+  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guillaumebgd&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=DD9012&sideNums=A63FDD&background=FFFFFF)](https://git.io/streak-stats)
+
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
