@@ -71,9 +71,9 @@
       src="./assets/devicon/icons/solidity/solidity-original.svg"
     >
   </a>
-</p>
 
-<p align="left">
+  <br>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img alt="React" width="40" height="40"
       src="./assets/devicon/icons/react/react-original.svg"
@@ -94,9 +94,9 @@
       src="./assets/devicon/icons/flutter/flutter-original.svg"
     >
   </a>
-</p>
 
-<p align="left">
+  <br>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img alt="Docker" width="40" height="40"
     src="./assets/devicon/icons/docker/docker-original.svg"
@@ -127,9 +127,9 @@
     src="./assets/devicon/icons/mysql/mysql-original.svg"
     >
   </a>
-</p>
 
-<p align="left">
+  <br>
+
   <a href="https://unity.com" target="_blank" rel="noreferrer">
     <img alt="Unity" width="40" height="40"
     src="./assets/devicon/icons/unity/unity-original.svg"
@@ -177,11 +177,12 @@
   </a>
 </p>
 
-  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
+<br>
 
-  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
+<p align="center">
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guillaumebgd&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=DD9012&sideNums=A63FDD&background=FFFFFF)](https://git.io/streak-stats)
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=30,e96443,904e95&title_color=8C28A7&icon_color=8C28A7&text_color=F1F1F1" />
 
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=guillaumebgd&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=DD9012&sideNums=A63FDD&background=FFFFFF)](https://git.io/streak-stats" />
+</p>
