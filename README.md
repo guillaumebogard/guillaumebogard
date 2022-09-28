@@ -13,6 +13,8 @@
 
 - 🧗‍♂️ Climbing Evangelist
 
+- 🏋️‍♂️ Zyzz wannabe
+
 <h3 align="left">🔨 Languages & Tools</h3>
 
 <p align="left">
