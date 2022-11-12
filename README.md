@@ -1,13 +1,12 @@
-<h1 align="center">Hello folks !
+<h1 align="center">Hello folks, I'm Guillaume !
   <img alt="Waving" width="40" height="40" src="./assets/gifs/wave.gif">
-  I'm Guillaume
 </h1>
 
 - 💼 4th year IT student at **EPITECH, Bordeaux, France** (2019-2024)
 
 - 🎓 1 year exchange at **San Francisco State University**, CS Graduate (2022-2023)
 
-- 🧑‍💻 Freelance Blockchain Developer (**Rust/Solidity** mainly)
+- 🧑‍💻 Full Stack Freelance Blockchain Developer (**Rust/Solidity/TypeScript** Lover)
 
 - 👨‍🎓 Autonomous & Self-taught
 
