@@ -164,6 +164,11 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
       src="./assets/devicon/icons/graphql/graphql-plain.svg"
     >
   </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img alt="GraphQL" width="40" height="40"
+      src="./assets/devicon/icons/graphql/graphql-plain.svg"
+    >
+  </a>
 </p>
 
 <h3 align="left">📫 Reach me</h3>
