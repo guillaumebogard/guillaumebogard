@@ -12,7 +12,7 @@
 For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogardcoquard) profile.<br/>
 If you are wondering how to pronounce my first name, no problem, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
 
-<h3 align="left">🔨 Languages & Tools</h3>
+### 🔨 Languages & Tools
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
@@ -156,15 +156,17 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
   </a>
 </p>
 
-<h3 align="left">📚 What I want to learn next<h3>
+### 📚 What I want to learn next
 
+<p align="left">
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img alt="GraphQL" width="40" height="40"
       src="./assets/devicon/icons/graphql/graphql-plain.svg"
     >
   </a>
+</p>
 
-<h3 align="left">📫 Reach me</h3>
+### 📫 Reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guillaumebogardcoquard" target="_blank" rel="noreferrer">
