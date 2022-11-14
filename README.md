@@ -84,7 +84,7 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
   <br>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="React" width="40" height="40"
+    <img alt="React.js" width="40" height="40"
       src="./assets/devicon/icons/react/react-original.svg"
     >
   </a>
@@ -160,7 +160,7 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
 
 <p align="left">
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" width="40" height="40"
+    <img alt="GraphQL" width="40" height="40"
       src="./assets/devicon/icons/graphql/graphql-plain.svg"
     >
   </a>
