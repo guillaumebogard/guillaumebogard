@@ -9,7 +9,7 @@
 - 🧗‍♂️ Climbing Evangelist
 - 🏋️‍♂️ Zyzz wannabe
 
-For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebgd) profile.<br/>
+For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.<br/>
 If you are wondering how to pronounce my first name, no problem, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
 
 ### 🔨 Languages & Tools
@@ -169,7 +169,7 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
 ### 📫 Reach me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guillaumebgd" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/guillaumebogard" target="_blank" rel="noreferrer">
     <img alt="LinkedIn" width="40" height="40"
       src="./assets/devicon/icons/linkedin/linkedin-original.svg"
     >
@@ -184,9 +184,9 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
 <br>
 
 <p align="center">
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebgd&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF00&title_color=8C28A7&icon_color=72378E&text_color=A63FDD" />
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api?username=guillaumebogard&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF00&title_color=8C28A7&icon_color=72378E&text_color=A63FDD" />
 
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebgd&layout=compact&theme=github_dark&hide_border=true&bg_color=FFFFFF00&title_color=8C28A7&text_color=A63FDD" />
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumebogard&layout=compact&theme=github_dark&hide_border=true&bg_color=FFFFFF00&title_color=8C28A7&text_color=A63FDD" />
 
-<img style="vertical-align: middle;" height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=guillaumebgd&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=61109D&sideNums=A63FDD&background=FFFFFF00&dates=65317F&currStreakNum=E162FFFC&sideLabels=72378E&stroke=D58ADD" />
+<img style="vertical-align: middle;" height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=guillaumebogard&hide_border=true&ring=A63FDD&fire=DD9012&currStreakLabel=61109D&sideNums=A63FDD&background=FFFFFF00&dates=65317F&currStreakNum=E162FFFC&sideLabels=72378E&stroke=D58ADD" />
 </p>
