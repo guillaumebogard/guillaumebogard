@@ -9,7 +9,7 @@
 - 🧗‍♂️ Climbing Evangelist
 - 🏋️‍♂️ Zyzz wannabe
 
-For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.<br/>
+For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebgd) profile.<br/>
 If you are wondering how to pronounce my first name, no problem, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
 
 ### 🔨 Languages & Tools
@@ -169,7 +169,7 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
 ### 📫 Reach me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guillaumebogard" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/guillaumebgd" target="_blank" rel="noreferrer">
     <img alt="LinkedIn" width="40" height="40"
       src="./assets/devicon/icons/linkedin/linkedin-original.svg"
     >
