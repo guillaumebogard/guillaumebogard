@@ -1,15 +1,15 @@
-<h1 align="center">Hello folks, I'm Guillaume !
+<h1 align="left">Hello, I'm Guillaume !
   <img alt="Waving" width="40" height="40" src="./assets/gifs/wave.gif">
 </h1>
 
 - 💼 4th year IT student at **EPITECH, Bordeaux, France** (2019-2024)
-- 🎓 1 year exchange at **San Francisco State University**, CS Graduate (2022-2023)
+- 🎓 1 year International Student at **San Francisco State University**, CS Graduate (2022-2023)
 - 🧑‍💻 Full Stack Freelance Blockchain Developer (**Rust/Solidity/TypeScript** Lover)
 - 👨‍🎓 Autonomous & Self-taught
 - 🧗‍♂️ Climbing Evangelist
-- 🏋️‍♂️ Zyzz wannabe
+- 🏋️‍♂️ Zyzz Wannabe
 
-For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogardcoquard) profile.<br/>
+For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.
 If you are wondering how to pronounce my first name, no problem, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
 
 ### 🔨 Languages & Tools
@@ -101,6 +101,11 @@ If you are wondering how to pronounce my first name, no problem, I got you [here
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img alt="Flutter" width="40" height="40"
       src="./assets/devicon/icons/flutter/flutter-original.svg"
+    >
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img alt="Swift" width="40" height="40"
+      src="./assets/devicon/icons/swift/swift-original.svg"
     >
   </a>
 
