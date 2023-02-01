@@ -10,7 +10,7 @@
 - 🏋️‍♂️ Zyzz Wannabe
 
 For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.<br>
-If you are wondering how to pronounce my first name, no problem, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
+If you are wondering how to pronounce my first name, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
 
 ### 🔨 Languages & Tools
 
