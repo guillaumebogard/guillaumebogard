@@ -126,9 +126,9 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
     src="./assets/devicon/icons/jenkins/jenkins-original.svg"
     >
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img alt="AWS" width="40" height="40"
-    src="./assets/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img alt="MySQL" width="40" height="40"
+    src="./assets/devicon/icons/mysql/mysql-original.svg"
     >
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -136,12 +136,22 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
     src="./assets/devicon/icons/nginx/nginx-original.svg"
     >
   </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img alt="MySQL" width="40" height="40"
-    src="./assets/devicon/icons/mysql/mysql-original.svg"
+  <a href="https://www.apache.org" target="_blank" rel="noreferrer">
+    <img alt="apache" width="40" height="40"
+    src="./assets/devicon/icons/apache/apache-original.svg"
     >
   </a>
 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img alt="AWS" width="40" height="40"
+    src="./assets/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+    >
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img alt="AWS" width="40" height="40"
+    src="./assets/devicon/icons/googlecloud/googlecloud-original.svg"
+    >
+  </a>
   <br>
 
   <a href="https://unity.com" target="_blank" rel="noreferrer">
