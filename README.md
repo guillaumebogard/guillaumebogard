@@ -60,14 +60,14 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
       src="./assets/devicon/icons/haskell/haskell-original.svg"
     >
   </a>
+  <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
+    <img alt="Elixir" width="40" height="40"
+      src="./assets/devicon/icons/elixir/elixir-original.svg"
+    >
+  </a>
   <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noreferrer">
     <img alt="Solidity" width="40" height="40"
       src="./assets/devicon/icons/solidity/solidity-original.svg"
-    >
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img alt="Dart" width="40" height="40"
-      src="./assets/devicon/icons/dart/dart-original.svg"
     >
   </a>
   <a href="https://go.dev" target="_blank" rel="noreferrer">
@@ -75,9 +75,9 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
       src="./assets/devicon/icons/go/go-original-wordmark.svg"
     >
   </a>
-  <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-    <img alt="Elixir" width="40" height="40"
-      src="./assets/devicon/icons/elixir/elixir-original.svg"
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img alt="Dart" width="40" height="40"
+      src="./assets/devicon/icons/dart/dart-original.svg"
     >
   </a>
 
