@@ -2,11 +2,10 @@
   <img alt="Waving" width="40" height="40" src="./assets/gifs/wave.gif">
 </h1>
 
-- 💼 4 years as an IT student at **EPITECH, Bordeaux, France** (2019-2023)
-- 🎓 1 year as an IT International Student at **San Francisco State University**, CS Graduate (2022-2023)
-- 🧑‍💻 Freelance Developer (**Rust/Haskell/TypeScript** Lover)
-- 👨‍🎓 Autonomous & Self-taught
-- 🧗‍♂️ Climbing Evangelist
+- 💼 5 years as a CS student at **EPITECH, Bordeaux, France** (2019-2023, 2024-2025)
+- 🎓 1 year as an CS International Student at **San Francisco State University**, CS Graduate (2022-2023)
+- 🧑‍💻 Freelance Developer (Ethereum/Solana, Rust, Architecture, DevOps...)
+- 👨‍🎓 Autonomous & Learning
 
 For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.<br>
 If you are wondering how to pronounce my first name, I got you [here](https://www.youtube.com/watch?v=pztow1Z2Ncw)!
@@ -64,9 +63,9 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
       src="./assets/devicon/icons/elixir/elixir-original.svg"
     >
   </a>
-  <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noreferrer">
-    <img alt="Solidity" width="40" height="40"
-      src="./assets/devicon/icons/solidity/solidity-original.svg"
+    <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img alt="Lua" width="40" height="40"
+      src="./assets/devicon/icons/lua/lua-original-wordmark.svg"
     >
   </a>
   <a href="https://go.dev" target="_blank" rel="noreferrer">
@@ -77,6 +76,11 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img alt="Dart" width="40" height="40"
       src="./assets/devicon/icons/dart/dart-original.svg"
+    >
+  </a>
+  <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noreferrer">
+    <img alt="Solidity" width="40" height="40"
+      src="./assets/devicon/icons/solidity/solidity-original.svg"
     >
   </a>
 
@@ -107,6 +111,11 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
       src="./assets/devicon/icons/swift/swift-original.svg"
     >
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img alt="Django" width="40" height="40"
+      src="./assets/devicon/icons/django/django-plain-wordmark.svg"
+    >
+  </a>
 
   <br>
 
@@ -120,14 +129,14 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
     src="./assets/devicon/icons/kubernetes/kubernetes-plain.svg"
     >
   </a>
+  <a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" rel="noreferrer">
+    <img alt="Ansible" width="40" height="40"
+    src="./assets/devicon/icons/ansible/ansible-original.svg"
+    >
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img alt="Jenkins" width="40" height="40"
     src="./assets/devicon/icons/jenkins/jenkins-original.svg"
-    >
-  </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img alt="MySQL" width="40" height="40"
-    src="./assets/devicon/icons/mysql/mysql-original.svg"
     >
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -140,10 +149,15 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
     src="./assets/devicon/icons/apache/apache-original.svg"
     >
   </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img alt="MySQL" width="40" height="40"
+    src="./assets/devicon/icons/mysql/mysql-original-wordmark.svg"
+    >
+  </a>
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img alt="AWS" width="40" height="40"
-    src="./assets/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+    src="./assets/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
     >
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
@@ -151,6 +165,30 @@ If you are wondering how to pronounce my first name, I got you [here](https://ww
     src="./assets/devicon/icons/googlecloud/googlecloud-original.svg"
     >
   </a>
+
+  <br>
+
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+    <img alt="Ethereum" width="40" height="40"
+    src="./assets/icons/ethereum-logo.svg"
+    >
+  </a>
+  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+    <img alt="Solana" width="40" height="40"
+    src="./assets/icons/solana-logo.svg"
+    >
+  </a>
+  <a href="https://polkadot.com/" target="_blank" rel="noreferrer">
+    <img alt="Polkadot" width="40" height="40"
+    src="./assets/icons/polkadot-logo.png"
+    >
+  </a>
+  <a href="https://near.org/" target="_blank" rel="noreferrer">
+    <img alt="Near Protocol" width="40" height="40"
+    src="./assets/icons/near-protocol-logo.png"
+    >
+  </a>
+
   <br>
 
   <a href="https://unity.com" target="_blank" rel="noreferrer">
