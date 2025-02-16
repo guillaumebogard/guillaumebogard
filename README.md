@@ -4,7 +4,7 @@
 
 - 💼 4 years as a CS student at **EPITECH, Bordeaux, France** (2019-2023)
 - 🎓 1 year as an CS International Student at **San Francisco State University**, CS Graduate (2022-2023)
-- 🧑‍💻 2 years as a Freelance Developer (Ethereum/Solana, Rust, Architecture, DevOps...)
+- 🧑‍💻 2 years as a Freelance Developer (Ethereum/Solana, Rust, Architecture, DevOps...) (Sep. 2022 - now)
 - 👨‍🎓 Autonomous & Learning
 
 For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.<br>
