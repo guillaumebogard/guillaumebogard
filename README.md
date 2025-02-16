@@ -2,9 +2,9 @@
   <img alt="Waving" width="40" height="40" src="./assets/gifs/wave.gif">
 </h1>
 
-- 💼 5 years as a CS student at **EPITECH, Bordeaux, France** (2019-2023, 2024-2025)
+- 💼 4 years as a CS student at **EPITECH, Bordeaux, France** (2019-2023, 2024-2025)
 - 🎓 1 year as an CS International Student at **San Francisco State University**, CS Graduate (2022-2023)
-- 🧑‍💻 Freelance Developer (Ethereum/Solana, Rust, Architecture, DevOps...)
+- 🧑‍💻 2 years as a Freelance Developer (Ethereum/Solana, Rust, Architecture, DevOps...)
 - 👨‍🎓 Autonomous & Learning
 
 For more information, don't hesitate looking up my [LinkedIn](https://www.linkedin.com/in/guillaumebogard) profile.<br>
